@@ -1,6 +1,6 @@
 ## Sharif Programming Contest
 
-Sharif University of Technology proudly launches its first-ever training sessions for programming contests, aimed at fully preparing participants at two levels: beginner and advanced. These courses are offered online and participants will receive a certificate from Sharif University of Technology upon completion.
+The Sharif University of Technology proudly launches its first-ever training sessions for programming contests, aimed at fully preparing participants at two levels: beginner and advanced. These courses are offered online, and participants will receive a certificate from Sharif University of Technology upon completion.
 
 <div align="center">
   <img 
@@ -14,4 +14,4 @@ Sharif University of Technology proudly launches its first-ever training session
   - **Introduction to Programming Contests**: Fundamentals of Programming
   - **Advanced Programming Contests**: Data Structures and Algorithms
 
-For more information, visit the official website: [Sharif Programming Contest](https://pc.ce.sharif.edu).
+For more information, visit the official website: [Sharif Programming Contest](https://micro.ce.sharif.edu/contest).
